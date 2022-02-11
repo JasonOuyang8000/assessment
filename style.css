@@ -1,0 +1,20 @@
+.product img {
+   height: 600px;
+   object-fit: cover;
+   padding: 5px;
+   
+}
+
+.product a {
+    text-decoration: none;
+    text-align: center;
+}
+
+.title,.price {
+    color: #000;
+}
+
+#XgenElement {
+    display: flex;
+    flex-wrap: wrap;
+}
